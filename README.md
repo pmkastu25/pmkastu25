@@ -100,10 +100,10 @@ contact: pmkastu25@gmail.com
 ████████████████░░░░░ 75%
 ```
 
-## 💻 Tech Stack I Have Worked On!
+## 💻 Tech Stack's On Which I Have Worked On!
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,php" /></p>
+<p><img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,php" /></p>
 
 **Frontend**
 <p><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite" /></p>
