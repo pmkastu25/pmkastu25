@@ -10,12 +10,6 @@
 
 </div>
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=pmkastu25&theme=onedark&no-frame=true&column=7&margin-w=10" />
-</a>
-</p>
-
 ---
 
 ## 💫 About Me
@@ -219,16 +213,7 @@ A version control system built from scratch in Node.js — commit objects, branc
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pmkastu25&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmkastu25&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=pmkastu25&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pmkastu25&theme=onedark&no-frame=true&column=4&margin-w=15" />
 </p>
 
 <p align="center">
