@@ -20,6 +20,19 @@ role: Full Stack Developer
 secondary_role: QA Automation Engineer
 education: "Computer Engineering Graduate, 2026"
 
+achievements:
+  - "9.51/10.0 CGPA in B.E. Computer Engineering"
+  - "160+ LeetCode Problems Solved"
+  - "Google Cloud Arcade Facilitator Program 2024 - Premium Plus Milestone"
+  - "2★ CodeChef Programmer"
+  - "Smart India Hackathon Participant"
+
+passionate_about:
+  - Full Stack Development
+  - Cloud Computing
+  - DevOps
+  - AI-powered Applications
+
 currently_learning:
   - AWS
   - Docker
@@ -28,19 +41,22 @@ currently_learning:
   - System Design
 
 exploring:
-  - Cloud Computing
-  - DevOps
-  - AI-Powered Applications
+  - Cloud Computing & DevOps
+  - AI-Powered Full Stack Applications
+  - Generative AI (GenAI)
+  - Large Language Models (LLMs)
+  - Retrieval-Augmented Generation (RAG)
+  - AI Agents & Agentic Workflows
+  - Prompt Engineering
+  - Vector Databases & Embeddings
+  - NLP & Transformer Models
+  - MLOps & AI Deployment
 
 experience:
   - Full Stack Development
   - Playwright Automation Testing
   - REST API Testing
   - CI/CD Pipelines
-
-achievements:
-  leetcode: "160+ problems solved"
-  codechef: "2★ Programmer"
 
 fun_fact: "I turn ☕ into 💻"
 
