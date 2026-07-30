@@ -229,7 +229,7 @@ A version control system built from scratch in Node.js — commit objects, branc
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=pmkastu25&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=pmkastu25&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
