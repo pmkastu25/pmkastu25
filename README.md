@@ -129,6 +129,8 @@ contact: pmkastu25@gmail.com
 
 <p>
 
+<img src="https://raw.githubusercontent.com/gist/UzaeirAzhar/a03851c32cfb9edbbb7fb55a318c3bd8/raw/a8ef57341f4efbc86544bc65d8c0f14387ceec9f/playwright_svg.svg" height="65px" width="60px"/>
+
 <img src="https://skillicons.dev/icons?i=ts" />
 
 <img src="https://skillicons.dev/icons?i=js" />
