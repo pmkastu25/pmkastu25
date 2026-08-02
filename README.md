@@ -11,6 +11,21 @@
 </div>
 
 ---
+<p align="center">
+
+<a href="https://github.com/pmkastu25/pmkastu25/blob/main/Prathamesh_Kasture_Resume.pdf">
+<img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-blue?style=for-the-badge"/>
+</a>
+
+<a href="mailto:pmkastu25@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-Contact-red?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/prathamesh-kasture-874548269">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ## 💫 About Me
 
