@@ -37,7 +37,7 @@ education: "Computer Engineering Graduate, 2026"
 
 achievements:
   - "9.51/10.0 CGPA in B.E. Computer Engineering"
-  - "160+ LeetCode Problems Solved"
+  - "170+ LeetCode Problems Solved"
   - "Google Cloud Arcade Facilitator Program 2024 - Premium Plus Milestone"
   - "2★ CodeChef Programmer"
   - "Smart India Hackathon Participant"
