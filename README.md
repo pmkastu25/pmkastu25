@@ -177,7 +177,6 @@ contact: pmkastu25@gmail.com
 
 - GitHub Actions
 - Jenkins
-- Azure DevOps
 - Docker
 
 ---
