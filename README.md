@@ -58,7 +58,7 @@ currently_learning:
 exploring:
   - Cloud Computing & DevOps
   - AI-Powered Full Stack Applications
-  - Generative AI (GenAI)
+  - Generative AI 
   - Large Language Models (LLMs)
   - Retrieval-Augmented Generation (RAG)
   - AI Agents & Agentic Workflows
