@@ -59,7 +59,7 @@ exploring:
   - Cloud Computing & DevOps
   - AI-Powered Full Stack Applications
   - Generative AI 
-  - Large Language Models (LLMs)
+  - Large Language Models 
   - Retrieval-Augmented Generation (RAG)
   - AI Agents & Agentic Workflows
   - Prompt Engineering
