@@ -32,7 +32,6 @@
 ```yaml
 name: Prathamesh Kasture
 role: Full Stack Developer
-secondary_role: QA Automation Engineer
 education: "Computer Engineering Graduate, 2026"
 
 achievements:
