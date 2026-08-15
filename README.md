@@ -59,7 +59,7 @@ exploring:
   - AI-Powered Full Stack Applications
   - Generative AI 
   - Large Language Models 
-  - Retrieval-Augmented Generation (RAG)
+  - Retrieval-Augmented Generation 
   - AI Agents & Agentic Workflows
   - Prompt Engineering
   - Vector Databases & Embeddings
