@@ -162,7 +162,7 @@ contact: pmkastu25@gmail.com
 **Automation**
 
 - Playwright
-- Page Object Model (POM)
+- Page Object Model 
 - End-to-End Testing
 - Cross Browser Testing
 - UI Automation
